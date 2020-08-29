@@ -1,5 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+## Hosting URL: https://hulu-clone-7e32a.web.app
 ## Available Scripts
 
 In the project directory, you can run:
