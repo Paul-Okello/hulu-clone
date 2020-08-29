@@ -63,4 +63,5 @@
 .header>img {
     object-fit: contain;
     height: 20px;
+    cursor: pointer;
 }
